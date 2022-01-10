@@ -7,12 +7,14 @@ reactはcreate-react-appを用いています.(with typescript)
 
 ## 各種バージョン
 springboot 2.6.2
+
 java 11
-create-react-app 
+
+create-react-app ?
 
 
 
-手動で入れたライブラリは, 以下になり
+手動で入れたライブラリは, 以下になります
 - MyBatis Framework 
 - Spring Web
 - Flyway Migration 
